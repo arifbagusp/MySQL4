@@ -11,7 +11,7 @@
 
 # Soal Latihan Praktikum ( Pegawai )
 
-![alt text](SS/Scre)
+
 
 **Perintah SQL :**
 
@@ -125,7 +125,6 @@ SELECT MAX(gaji) AS terbesar FROM pegawai;
 
 # Soal Latihan Praktikum ( Hewan )
 
-![alt text]
 
 **Perintah SQL :**
 
